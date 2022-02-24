@@ -135,6 +135,9 @@
 			"All tiles cost 1 movement", "Ignores Zone of Control", "Never appears as a Barbarian unit"],
 		"attackSound": "athit"
 	},
+
+	/*Rebel Alliance*/
+
 	{
 		"name": "Landspeeder",
 		"unitType": "Scout",
@@ -221,6 +224,23 @@
 		"cost": 375,
 		"requiredTech": "Stealth",
 		"uniques": ["Invisible to non-adjacent units","Can move after attacking","[+50]% Strength <vs [Gunpowder] units>","[+50]% Strength <vs [Ranged Gunpowder] units>","Never appears as a Barbarian unit"],
+		"attackSound": "blasterhit"
+	},
+       {
+		"name": "Modified Old Republic AT-TE",
+		"unitType": "Armored",
+		"replaces": "Landship",
+		"uniqueTo": "Rebel Alliance",
+		"movement": 3,
+		"range": 3,
+		"interceptRange": 3,
+		"strength": 340,
+		"rangedStrength": 60,
+		"cost": 450,
+		"requiredTech": "Lasers",
+		"requiredResource": "Uranium",
+		"uniques": ["Can move after attacking", "No defensive terrain bonus",
+			"", "Never appears as a Barbarian unit"],
 		"attackSound": "blasterhit"
 	},
 	{
