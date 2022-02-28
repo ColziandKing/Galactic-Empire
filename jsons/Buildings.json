@@ -87,5 +87,18 @@
 		"isNationalWonder": true,
 		"requiredTech": "Robotics",
 		"uniques": ["All newly-trained [Air] units [in all cities] receive the [Astromech Droid] promotion","[+17]% Production when constructing [Fighter] units [in all cities]","[+17]% Production when constructing [Bomber] units [in all cities]","Cost increases by [50] per owned city"],
-	}
+	},
+	{
+		"name": "Headquarters",
+		"replaces": "Palace",
+		
+Droid Hut not sure
+Squad Center can help units increase strength
+Scout Tower +1 sight
+Credit Market make more money
+Alloy Refinery makes more production
+Credit Vault replaces bank
+Alloy Depot storage for refinery
+		if it will not be added here then it will be added to the Underworld
+		https://starwars.fandom.com/wiki/Star_Wars:_Commander
 ]
