@@ -305,12 +305,12 @@
 		"cost": 240,
 		"requiredTech": "Metallurgy",
 		"obsoleteTech": "Rocketry",
-		"upgradesTo": "High Bounty",
+		"upgradesTo": "High Bounty Hunter",
 		"uniques": ["Bounty Hunter","[+1] Sight"],
 		"attackSound": "blasterhit"
 	},
 	{
-		"name": "High Bounty",
+		"name": "High Bounty Hunter",
 		"unitType": "Ranged Gunpowder",
 		"uniqueTo": "Smugglers",
 		"movement": 3,
