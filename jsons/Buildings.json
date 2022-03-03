@@ -130,4 +130,15 @@
 		"uniques": ["All newly-trained [Bounty Hunter] units [in all cities] receive the [Illegal Weapons] promotion", "Cost increases by [50] per owned city"],
 		"requiredTech": "Mobile Tactics"
 	},
+{
+		"name": "Credit Vault",
+		"replaces": "Bank",
+		"gold": 3,
+		"specialistSlots": {"Merchant": 1},
+		"happiness": 2,
+		"hurryCostModifier": 15,
+		"percentStatBonus": {"gold": 30},
+		"requiredBuilding": "Market",
+		"requiredTech": "Banking"
+	},
 ]
