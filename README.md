@@ -1,5 +1,10 @@
 # Star Wars Pack I
 
+Created by ColziandKing & Sullien. Working together to make a Star Wars come alive in Unciv. This mod is compatible with The Jedi Order by Sullien.
+Links:
+https://github.com/Sullien/The-Jedi-Order
+https://github.com/ColziandKing
+
 ~Changelog
 
 
